@@ -1,1 +1,5 @@
 wheel==0.23.0
+demands
+property-caching
+querylist
+unittest2

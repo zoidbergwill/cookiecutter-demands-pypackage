@@ -7,7 +7,7 @@ See  [cookiecutter](https://github.com/audreyr/cookiecutter).
 * Free software: MIT license
 * Vanilla testing setup with `unittest` and `python setup.py test`
 * [Travis-CI](http://travis-ci.org/): Ready for Travis Continuous Integration testing
-* [Tox](http://testrun.org/tox/) testing: Setup to easily test for Python 2.6, 2.7, 3.3, 3.4
+* [Tox](http://testrun.org/tox/) testing: Setup to easily test for Python 2.6 and 2.7.
 * [Sphinx](http://sphinx-doc.org/) docs: Documentation ready for generation with, for example, [ReadTheDocs](https://readthedocs.org/)
 
 ## Usage
