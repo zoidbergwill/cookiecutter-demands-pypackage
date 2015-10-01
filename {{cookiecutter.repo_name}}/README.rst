@@ -9,7 +9,7 @@
 
 {{ cookiecutter.project_short_description}}
 
-* Free software: ISC license
+* Free software: MIT license
 * Documentation: https://{{ cookiecutter.repo_name }}.readthedocs.org.
 
 Features
