@@ -1,6 +1,6 @@
 # cookiecutter-demands-pypackage
 
-Cookiecutter template for a [demands](https://github.com/yola/demands) API 
+Cookiecutter template for a [demands](https://github.com/yola/demands) API
 client library package. Based on [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage).
 See  [cookiecutter](https://github.com/audreyr/cookiecutter).
 
