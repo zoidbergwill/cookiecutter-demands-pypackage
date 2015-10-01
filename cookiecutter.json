@@ -2,9 +2,10 @@
   "full_name": "William Stewart",
   "email": "zoidbergwill@gmail.com",
   "github_username": "zoidbergwill",
-  "project_name": "Python Boilerplate",
-  "repo_name": "boilerplate",
-  "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
+  "project_name": "GitHub Python",
+  "repo_name": "github-python",
+  "package_name": "github",
+  "project_short_description": "GitHub Python is a basic client for accesssing the GitHub API.",
   "release_date": "2015-01-11",
   "year": "2015",
   "version": "0.1.0"

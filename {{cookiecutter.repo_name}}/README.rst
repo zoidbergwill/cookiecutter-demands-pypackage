@@ -1,19 +1,23 @@
-{{ cookiecutter.project\_name }}
-================================
+===============================
+{{ cookiecutter.project_name }}
+===============================
 
-|image0| |image1|
+|travis| |pypi|
 
-{{ cookiecutter.project\_short\_description}}
+{{ cookiecutter.project_short_description}}
 
--  Free software: MIT license
--  Documentation: https://{{ cookiecutter.repo\_name }}.readthedocs.org.
+
+{{ cookiecutter.project_short_description}}
+
+* Free software: ISC license
+* Documentation: https://{{ cookiecutter.repo_name }}.readthedocs.org.
 
 Features
 --------
 
 -  TODO
 
-.. |image0| image:: https://img.shields.io/travis/{{%20cookiecutter.github_username%20}}/{{%20cookiecutter.repo_name%20}}.svg?style=flat-square
-   :target: https://travis-ci.org/{{%20cookiecutter.github_username%20}}/{{%20cookiecutter.repo_name%20}}
-.. |image1| image:: https://img.shields.io/pypi/v/{{%20cookiecutter.repo_name%20}}.svg?style=flat-square
-   :target: https://warehouse.python.org/project/{{%20cookiecutter.repo_name%20}}
+.. |travis| image:: https://img.shields.io/travis/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}.svg?style=flat-square
+   :target: https://travis-ci.org/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}
+.. |pypi| image:: https://img.shields.io/pypi/v/{{ cookiecutter.package_name }}.svg?style=flat-square
+   :target: https://warehouse.python.org/project/{{ cookiecutter.package_name }}
